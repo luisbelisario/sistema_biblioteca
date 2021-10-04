@@ -8,7 +8,7 @@ def main():
     op = 0
     while op != 6:
         print('\nSistema biblioteca')
-        print('1 - Criar novo usuário: ')
+        print('1 - Criar novo usuário')
         print('2 - Fazer empréstimo de livro')
         print('3 - Fazer devolução de livro')
         print('4 - Ver acervo da biblioteca')
